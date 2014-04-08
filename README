@@ -1,0 +1,5 @@
+Path modification for anaconda: export PATH=~/anaconda/bin:$PATH
+
+Necessary for rpy2: sudo apt-get install liblzma-dev
+
+
