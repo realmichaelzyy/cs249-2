@@ -1,0 +1,8 @@
+A = U S V' (A: nxp, U: nxn, S: nxp, V: pxp)
+
+U is unitary <=> U' = transpose(U) = inverse(U)
+
+U'U = I = UU'
+V'V = I = VV'
+
+svd if A is real, symmetric: A = U S U'
